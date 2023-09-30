@@ -57,8 +57,8 @@ Make the necessary changes to fix the issue or add a feature. Remember to follow
 
 Once you're satisfied with your changes, commit them to your local repository and push them to your GitHub fork.
 
-`git add .
-git commit -m "Description of the changes"
+`git add . <br>
+git commit -m "Description of the changes" <br>
 git push origin branch-name`
 
 **9. Create a Pull Request**
@@ -92,10 +92,10 @@ You can complete multiple contributions to earn Hacktoberfest swag. Remember, qu
 
 Some Beginner's Friendly respositories to contribute
 
-1- https://github.com/avinash201199/weather-app
-2- https://github.com/avinash201199/stopwatch
-3- https://github.com/avinash201199/To-Do-List
-4- https://github.com/avinash201199/My-Gallery-4u
+1- https://github.com/avinash201199/weather-app <br>
+2- https://github.com/avinash201199/stopwatch <br>
+3- https://github.com/avinash201199/To-Do-List <br>
+4- https://github.com/avinash201199/My-Gallery-4u <br>
 
 
 **Conclusion**
