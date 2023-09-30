@@ -90,12 +90,6 @@ You can complete multiple contributions to earn Hacktoberfest swag. Remember, qu
 **5. Have Fun**: Hacktoberfest is not just about coding; it's about enjoying the journey and the sense of community.
 
 
-Some Beginner's Friendly respositories to contribute
-
-1- https://github.com/avinash201199/weather-app 
-2- https://github.com/avinash201199/stopwatch
-3- https://github.com/avinash201199/To-Do-List 
-4- https://github.com/avinash201199/My-Gallery-4u 
 
 
 **Conclusion**
